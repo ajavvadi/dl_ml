@@ -1,0 +1,64 @@
+---------------------------------
+Run id: cifar10_cnn_sgd_test
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Preprocessing... Calculating mean over all dataset (this may take long)...
+Mean: 0.473363000485 (To avoid repetitive computation, add it to argument 'mean' of `add_featurewise_zero_center`)
+---------------------------------
+Preprocessing... Calculating std over all dataset (this may take long)...
+STD: 0.251568925063 (To avoid repetitive computation, add it to argument 'std' of `add_featurewise_stdnorm`)
+---------------------------------
+Training samples: 50000
+Validation samples: 10000
+--
+Training Step: 521  | total loss: 0.09021
+| SGD | epoch: 001 | loss: 0.09021 - acc: 0.1104 | val_loss: 0.09016 - val_acc: 0.0849 -- iter: 50000/50000
+--
+Training Step: 1042  | total loss: 0.09040
+| SGD | epoch: 002 | loss: 0.09040 - acc: 0.0859 | val_loss: 0.09010 - val_acc: 0.0877 -- iter: 50000/50000
+--
+Training Step: 1563  | total loss: 0.09040
+| SGD | epoch: 003 | loss: 0.09040 - acc: 0.0923 | val_loss: 0.09006 - val_acc: 0.0901 -- iter: 50000/50000
+--
+Training Step: 2084  | total loss: 0.09017
+| SGD | epoch: 004 | loss: 0.09017 - acc: 0.0961 | val_loss: 0.09002 - val_acc: 0.0924 -- iter: 50000/50000
+--
+Training Step: 2605  | total loss: 0.09027
+| SGD | epoch: 005 | loss: 0.09027 - acc: 0.0910 | val_loss: 0.09000 - val_acc: 0.0938 -- iter: 50000/50000
+--
+Training Step: 3126  | total loss: 0.09022
+| SGD | epoch: 006 | loss: 0.09022 - acc: 0.1016 | val_loss: 0.08998 - val_acc: 0.0958 -- iter: 50000/50000
+--
+Training Step: 3647  | total loss: 0.09015
+| SGD | epoch: 007 | loss: 0.09015 - acc: 0.0956 | val_loss: 0.08996 - val_acc: 0.0967 -- iter: 50000/50000
+--
+Training Step: 4168  | total loss: 0.09024
+| SGD | epoch: 008 | loss: 0.09024 - acc: 0.0977 | val_loss: 0.08995 - val_acc: 0.0977 -- iter: 50000/50000
+--
+Training Step: 4689  | total loss: 0.09019
+| SGD | epoch: 009 | loss: 0.09019 - acc: 0.0899 | val_loss: 0.08993 - val_acc: 0.0979 -- iter: 50000/50000
+--
+Training Step: 5210  | total loss: 0.09024
+| SGD | epoch: 010 | loss: 0.09024 - acc: 0.0950 | val_loss: 0.08993 - val_acc: 0.0989 -- iter: 50000/50000
+--
+Training Step: 5731  | total loss: 0.09014
+| SGD | epoch: 011 | loss: 0.09014 - acc: 0.1028 | val_loss: 0.08992 - val_acc: 0.0994 -- iter: 50000/50000
+--
+Training Step: 6252  | total loss: 0.09011
+| SGD | epoch: 012 | loss: 0.09011 - acc: 0.1003 | val_loss: 0.08991 - val_acc: 0.0999 -- iter: 50000/50000
+--
+Training Step: 6773  | total loss: 0.09026
+| SGD | epoch: 013 | loss: 0.09026 - acc: 0.1031 | val_loss: 0.08991 - val_acc: 0.1001 -- iter: 50000/50000
+--
+Training Step: 7294  | total loss: 0.08996
+| SGD | epoch: 014 | loss: 0.08996 - acc: 0.1190 | val_loss: 0.08990 - val_acc: 0.1004 -- iter: 50000/50000
+--
+Training Step: 7815  | total loss: 0.09025
+| SGD | epoch: 015 | loss: 0.09025 - acc: 0.0939 | val_loss: 0.08990 - val_acc: 0.1007 -- iter: 50000/50000
+--
+Training Step: 8336  | total loss: 0.09002
+| SGD | epoch: 016 | loss: 0.09002 - acc: 0.1169 | val_loss: 0.08990 - val_acc: 0.1010 -- iter: 50000/50000
+--
+^Caining Step: 8442  | total loss: 0.09012
+| SGD | epoch: 016 | loss: 0.09012 - acc: 0.1082 -- iter: 10176/50000
+
